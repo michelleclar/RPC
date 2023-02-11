@@ -1,0 +1,5 @@
+# Project exclude paths
+/RPC-commons/target/
+/RPC-consumer/target/
+/RPC-producer/target/
+/.idea/
